@@ -140,7 +140,7 @@ nav {
 .hero {
     background: 
         linear-gradient(135deg, rgba(240, 248, 240, 0.9) 0%, rgba(232, 245, 232, 0.9) 100%),
-        url("../images/hero.jpg") center/cover no-repeat;
+        url("./images/hero.jpg") center/cover no-repeat;
     padding: 120px 0 80px;
     text-align: left;
     position: relative;
